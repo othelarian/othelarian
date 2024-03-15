@@ -5,7 +5,7 @@
 - ⚙️ I'm also working on small projects, like minigames, exploring canvas a bit, and maybe some 3D stuff
 - 📫 How to reach me: by mail (I'm sure you can find it ;-) ), or via a MR
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othelarian&theme=dark&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=othelarian&theme=dark&layout=compact&hide=OpenSCAD,HTML,QML,Elm">
 
 <!---
 - 💞️ I’m looking to collaborate on... nothing right now, I'm busy with my own projects, but if you want to contribute to one of my projects feel free to reach me
